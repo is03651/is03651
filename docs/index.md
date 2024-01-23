@@ -6,7 +6,7 @@ hero:
   name: "Jose A. Domínguez"
   tagline: Aplicando la tecnolgía a la vida real
   image:
-    src: 'assets/logo.jpg'
+    src: './assets/logo.jpg'
     alt: 'My logo'
 
   actions:
